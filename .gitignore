@@ -1,0 +1,6 @@
+.idea/**
+target/**
+*.iml
+.idea/uiDesigner.xml
+src/main/java/be/cegeka/solutions/**
+src/test/java/be/cegeka/solutions/**
